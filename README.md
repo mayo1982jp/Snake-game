@@ -1,4 +1,5 @@
 # 🐍 Snake Game
+<img width="466" height="709" alt="image" src="https://github.com/user-attachments/assets/dda6bba6-d7bd-4a5e-8c9a-865a41f71057" />
 
 A classic Snake game with modern twists! Navigate through walls and avoid the enemy AI snake in this HTML5 browser game.
 
